@@ -1,0 +1,9 @@
+name = "TOGDona"
+uuid = "876f0f80-ba5a-45c7-8cca-3f6c33f6d6fe"
+version = "1.0.0"
+authors = ["1m1 <imi@1m1.io>"]
+
+[deps]
+TOGAdvice = "1c1d7378-2f6c-44c0-88d7-7a23e88bf3e0"
+TOGXAI = "afe36212-cf87-4c61-af1f-196f295ed07d"
+TOGPowerOfAttorney = "1df27153-9956-4e1b-b91b-fbaa2595f438"
